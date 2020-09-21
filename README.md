@@ -1,1 +1,1 @@
-# Wine-Quality-Prediction_Classification
+# Wine-Quality-Prediction_Classification-Regression
